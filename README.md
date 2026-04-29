@@ -22,7 +22,7 @@ Washington State Department of Licensing – Electric Vehicle Population Data
 - Jupyter Notebook
 
 ## Files in this Repository
-- `EV_Data_Analysis.ipynb` – Data analysis and visualizations
+- `EV_Data_Analysis_Syed_Nadeemuddin.ipynb` – Data analysis and visualizations
 - `Electric Vehicle Data_Analysis.pdf` – Final report
 
 ## Key Insights
